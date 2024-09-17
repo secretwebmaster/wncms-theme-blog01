@@ -143,11 +143,11 @@ return [
      * ----------------------------------------------------------------------------------------------------
      */
     'info' => [
-        'id' => 'starter',
+        'id' => 'blog01',
         'type' => 'blog',
         'name' => [
-            'zh_TW' => 'Starer主題',
-            'zh_CN' => 'Starer主题',
+            'zh_TW' => 'Blof01主題',
+            'zh_CN' => 'Blof01主题',
             'en' => 'Start Theme',
         ],
         'description' => [
@@ -156,9 +156,9 @@ return [
             'en' => 'Hello World!',
         ],
         'author' => '文尼先生',
-        'version' => '3.1.7',
-        'created_at' => '2023-01-04',
-        'updated_at' => '2023-11-14',
+        'version' => '4.4.0',
+        'created_at' => '2024-09-17',
+        'updated_at' => '2024-09-17',
         'demo_url' => 'https://wncms.cc/',
     ],
 
